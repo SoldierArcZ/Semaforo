@@ -28,6 +28,7 @@ public class VistaSem {
 					+ "(1)Manualmente\n"
 					+ "(2)Encender el modo automatico\n"
 					);
+			System.out.println("");
 			int modo= sc.nextInt();
 			
 		}while(opc!=3);
